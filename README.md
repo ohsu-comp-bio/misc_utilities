@@ -19,4 +19,7 @@ Creates graphs in an R view from Metastasis and Primary tumor mutation data.
 LabKey Oncotator Integration
 Includes the files needed to integrate Oncotator with LabKey, including the install script files to be put in the sequenceAnalysis module.
 
+Sequence Barcode Generator
+Includes a script to generate barcodes for use in gene sequencing
+
 
