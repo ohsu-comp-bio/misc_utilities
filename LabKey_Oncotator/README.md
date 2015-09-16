@@ -5,6 +5,7 @@ they are broken out here for ease of seperation.
 # How To Use
 Run oncotator_install script on first run to download and install the required components.  Note that you may need to first change users to install the tools.
 Pass either a VCF or MAF file to Oncotator in LabKey, the output will either be TCGAMAF (default), VCF, or a TSV file.
+
 The Broad's instructions for installing and running Oncotator are here:  http://gatkforums.broadinstitute.org/discussion/4154/howto-install-and-run-oncotator-for-the-first-time
 
 # Process of Integrating New Tools into LabKey
